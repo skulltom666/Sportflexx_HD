@@ -23,4 +23,4 @@
 | El sistema debe tener un módulo de cargos donde se podrá gestionar la vista, creación, modificación y eliminación de un cargo. | 2 días | vie 16/05/25 | lun 19/05/25 |
 | El sistema debe tener un módulo de clientes en donde se podrá gestionar la vista, creación, modificación y eliminación de un cliente. | 2 días | mar 20/05/25 | mié 21/05/25 |
 | El sistema debe tener un módulo de empleados en donde se podrá gestionar la vista, creación, modificación y eliminación de un empleado. | 2 días | jue 22/05/25 | vie 23/05/25 |
-| El sistema debe tener un módulo de máquinas en donde se podrá gestionar la vista, creación, modificación y eliminación de una máquina. | 2 días | lun
+| El sistema debe tener un módulo de máquinas en donde se podrá gestionar la vista, creación, modificación y eliminación de una máquina. | 2 días | lun 26/05/25 | mar 27/05/25 |  
