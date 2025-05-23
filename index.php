@@ -62,7 +62,7 @@
         <img src="Cliente/ImagenMenu/logo.png" alt="">
     </div>
     <main>
-        <h2>Ingresa a nuestro portal</h2>
+        <h2>Ingresa a nuestro portal GG</h2>
         <a href="/SPORTFLEXX/Cliente/HTML/MenuPrincipalCliente.php">Click aquí</a>
     </main>
 </body>
