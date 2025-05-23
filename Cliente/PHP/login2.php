@@ -75,9 +75,9 @@ if (isset($_SESSION['mensaje'])) {
                 <input type="password" placeholder="Contraseña" name="Contrasena" required>
                 <a href="#">¿Olvidaste tu contraseña?</a>
                 <button type="submit" name="btnLogin">Iniciar sesión</button>
-                <!--<br> <h5>o</h5>
+                <br> <h5>o</h5>
                 <button type="submit"><a style="color: white" href="../../Cliente/html/MenuPrincipalCliente.php">Iniciar sin sesión</a></button>
-           --> </form>
+            </form>
         </div>
 
         <!-- Contenedor de Alternancia -->
